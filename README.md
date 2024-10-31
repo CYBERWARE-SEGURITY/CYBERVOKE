@@ -1,10 +1,10 @@
-# CYBERVOKE
+# CYBERVOKE 👾👾
 
-## Information
+## Information 📜📜
 
 The **Cybervoke** DLL was created with the intent of facilitating development in C#. It offers a variety of functionalities that can be used to improve the efficiency and productivity of developers and cybersecurity professionals.
 
-### Usage
+### Usage 🔌🔌
 
 **Cybervoke** can be used in C# projects for:
 - **Automating tasks such as moving the mouse, typing, and using shortcuts.**
@@ -17,19 +17,19 @@ The **Cybervoke** DLL was created with the intent of facilitating development in
 - **Efficiently changing the username and password of the main user.**
 - **Libraries for playing Bytebeats.**
 
-### Ethical Warning
+### Ethical Warning ⚠ ⚠
 
 **IMPORTANT**: This DLL should not be used for malicious purposes or to harm others. Misuse may result in legal consequences and is considered a crime. Use it responsibly and ethically.
 
-### Supported .NET Framework
+### Supported .NET Framework 🟢🟢
 
 This DLL is compatible with .NET Framework 4. Please adjust as necessary to ensure compatibility with your project.
 
-### Disclaimer
+### Disclaimer 📒📒
 
 The developer is not responsible for any loss or damage resulting from the use of the **Cybervoke** DLL. The use of this DLL is the sole responsibility of the user.
 
-## Installation
+## Installation 📥📥
 
 To add **Cybervoke** to your project:
 
@@ -37,5 +37,5 @@ To add **Cybervoke** to your project:
 2. Reference it in your C# project.
 3. Use the functionalities as needed.
 
-## Tutorial on How to Use the DLL:
-YouTube Video: []
+## Tutorial on How to Use the DLL 🎬🎬
+🔴YouTube Video🔴: []
