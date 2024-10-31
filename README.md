@@ -15,7 +15,7 @@ The **Cybervoke** DLL was created with the intent of facilitating development in
 - **Functions for disabling Windows Defender and changing wallpapers repeatedly.**
 - **Quickly killing processes.**
 - **Efficiently changing the username and password of the main user.**
-- **Libraries for playing Bytebeats.**
+- **Libraries for Bytebeats.**
 
 ### Ethical Warning ⚠ ⚠
 
